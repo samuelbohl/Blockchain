@@ -2,11 +2,12 @@
 
 The goal of this project was to understand how blockchains work and how they are implemented in their simplest form.
 
-## Functionality
+## What you can do
+* create new transactions
+* view the status of the blockchain 
+* "mine"
 
-You can create new transactions, view the status of the blockchain and mine.
-
-### Getting started
+### How to use
 
 You need to have installed Flask to use the script. And you need somethin like Postman to make the requests.
 
