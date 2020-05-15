@@ -7,11 +7,11 @@ The goal of this project was to understand how blockchains work and how they are
 * view the status of the blockchain 
 * "mine"
 
-### How to use
+## How to use
 
-You need to have installed Flask to use the script. And you need somethin like Postman to make the requests.
+You need to have installed Flask to use the script. And you will need a software to make the HTTP requests.(e.g. Postman)
 
-### View the chain
+#### View the chain
 
 make a GET request to:
 
@@ -19,7 +19,7 @@ make a GET request to:
 http://localhost:5000/chain
 ```
 
-### Add a transaction
+#### Add a transaction
 
 make a POST request to:
 
@@ -35,7 +35,7 @@ with a body like:
 }
 ```
 
-### Mine the new transaction
+#### Mine the new transaction
 
 make a GET request to:
 
