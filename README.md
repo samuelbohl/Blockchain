@@ -9,7 +9,7 @@ The goal of this project was to understand how blockchains work and how they are
 
 ## How to use
 
-You need to have installed Flask to use the script. And you will need a software to make the HTTP requests.(e.g. Postman)
+You need to have installed Flask to use the script. And you will need a software to make the HTTP requests. (e.g. Postman)
 
 #### View the chain
 
